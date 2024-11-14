@@ -1,3 +1,3 @@
-module github.com/IPQualityScore/GoIPQSDBReader
+module github.com/dxjones/GoIPQSDBReader
 
-go 1.14
+go 1.23
